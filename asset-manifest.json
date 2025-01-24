@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/XZYPHER/static/css/main.a961eb8b.css",
+    "main.css": "/XZYPHER/static/css/main.e6c7efdd.css",
     "main.js": "/XZYPHER/static/js/main.a47deec0.js",
     "static/js/453.61670901.chunk.js": "/XZYPHER/static/js/453.61670901.chunk.js",
     "static/js/208.2fa20a9e.chunk.js": "/XZYPHER/static/js/208.2fa20a9e.chunk.js",
@@ -28,7 +28,7 @@
     "static/media/iphone.png": "/XZYPHER/static/media/iphone.b3efc5681b161df16e58.png",
     "static/media/graph_m.png": "/XZYPHER/static/media/graph_m.91cc0f373b70c81f9bf3.png",
     "index.html": "/XZYPHER/index.html",
-    "main.a961eb8b.css.map": "/XZYPHER/static/css/main.a961eb8b.css.map",
+    "main.e6c7efdd.css.map": "/XZYPHER/static/css/main.e6c7efdd.css.map",
     "main.a47deec0.js.map": "/XZYPHER/static/js/main.a47deec0.js.map",
     "453.61670901.chunk.js.map": "/XZYPHER/static/js/453.61670901.chunk.js.map",
     "208.2fa20a9e.chunk.js.map": "/XZYPHER/static/js/208.2fa20a9e.chunk.js.map",
@@ -42,7 +42,7 @@
     "reactPlayerPreview.bc00135d.chunk.js.map": "/XZYPHER/static/js/reactPlayerPreview.bc00135d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a961eb8b.css",
+    "static/css/main.e6c7efdd.css",
     "static/js/main.a47deec0.js"
   ]
 }
