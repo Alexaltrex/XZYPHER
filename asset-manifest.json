@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/XZYPHER/static/css/main.e6c7efdd.css",
-    "main.js": "/XZYPHER/static/js/main.a47deec0.js",
+    "main.css": "/XZYPHER/static/css/main.fcf6a362.css",
+    "main.js": "/XZYPHER/static/js/main.cbbde7e6.js",
     "static/js/453.61670901.chunk.js": "/XZYPHER/static/js/453.61670901.chunk.js",
     "static/js/208.2fa20a9e.chunk.js": "/XZYPHER/static/js/208.2fa20a9e.chunk.js",
     "static/js/293.3b62e5be.chunk.js": "/XZYPHER/static/js/293.3b62e5be.chunk.js",
@@ -14,22 +14,22 @@
     "reactPlayerPreview.js": "/XZYPHER/static/js/reactPlayerPreview.bc00135d.chunk.js",
     "static/media/action_driven.mp4": "/XZYPHER/static/media/action_driven.182b9a9d3ebb1222f810.mp4",
     "static/media/ai_driven.mp4": "/XZYPHER/static/media/ai_driven.a731f15ab6de6d738f6f.mp4",
-    "static/media/chat_back.png": "/XZYPHER/static/media/chat_back.18d0fd282e207b47acbb.png",
     "static/media/scene.splinecode": "/XZYPHER/static/media/scene.439829709bb8cc2d92af.splinecode",
     "static/media/instant_back.png": "/XZYPHER/static/media/instant_back.d52578a1cb55d8b4e69d.png",
     "static/media/meet_background.png": "/XZYPHER/static/media/meet_background.c6eea5a16d2bab13bdd4.png",
     "static/media/transform_back.png": "/XZYPHER/static/media/transform_back.cb460a478be222e41b0a.png",
     "static/media/background.png": "/XZYPHER/static/media/background.5ba191533875e318c9a5.png",
+    "static/media/chat_back.png": "/XZYPHER/static/media/chat_back.23675f6cd5a12a191044.png",
     "static/media/cover.png": "/XZYPHER/static/media/cover.7ec46bc8ecd5370fa40f.png",
-    "static/media/keepInSync_cards.png": "/XZYPHER/static/media/keepInSync_cards.82dd1e158f86fdb3c03b.png",
+    "static/media/keepInSync_cards.png": "/XZYPHER/static/media/keepInSync_cards.65289b6158c694bcaaf8.png",
     "static/media/items.png": "/XZYPHER/static/media/items.2fbef672feeed3b9534e.png",
     "static/media/graph_d.png": "/XZYPHER/static/media/graph_d.4a6ccbadacb43e5784fd.png",
     "static/media/NeuePower-Ultra.ttf": "/XZYPHER/static/media/NeuePower-Ultra.9c755f52b53c5cccd16f.ttf",
     "static/media/iphone.png": "/XZYPHER/static/media/iphone.b3efc5681b161df16e58.png",
     "static/media/graph_m.png": "/XZYPHER/static/media/graph_m.91cc0f373b70c81f9bf3.png",
     "index.html": "/XZYPHER/index.html",
-    "main.e6c7efdd.css.map": "/XZYPHER/static/css/main.e6c7efdd.css.map",
-    "main.a47deec0.js.map": "/XZYPHER/static/js/main.a47deec0.js.map",
+    "main.fcf6a362.css.map": "/XZYPHER/static/css/main.fcf6a362.css.map",
+    "main.cbbde7e6.js.map": "/XZYPHER/static/js/main.cbbde7e6.js.map",
     "453.61670901.chunk.js.map": "/XZYPHER/static/js/453.61670901.chunk.js.map",
     "208.2fa20a9e.chunk.js.map": "/XZYPHER/static/js/208.2fa20a9e.chunk.js.map",
     "293.3b62e5be.chunk.js.map": "/XZYPHER/static/js/293.3b62e5be.chunk.js.map",
@@ -42,7 +42,7 @@
     "reactPlayerPreview.bc00135d.chunk.js.map": "/XZYPHER/static/js/reactPlayerPreview.bc00135d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c7efdd.css",
-    "static/js/main.a47deec0.js"
+    "static/css/main.fcf6a362.css",
+    "static/js/main.cbbde7e6.js"
   ]
 }
