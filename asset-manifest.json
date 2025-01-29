@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/XZYPHER/static/css/main.5a3869bb.css",
-    "main.js": "/XZYPHER/static/js/main.7fee5b3e.js",
+    "main.css": "/XZYPHER/static/css/main.8717b6ac.css",
+    "main.js": "/XZYPHER/static/js/main.77ce372e.js",
     "static/js/453.61670901.chunk.js": "/XZYPHER/static/js/453.61670901.chunk.js",
     "static/js/208.2fa20a9e.chunk.js": "/XZYPHER/static/js/208.2fa20a9e.chunk.js",
     "static/js/293.3b62e5be.chunk.js": "/XZYPHER/static/js/293.3b62e5be.chunk.js",
@@ -27,8 +27,8 @@
     "static/media/iphone.png": "/XZYPHER/static/media/iphone.b3efc5681b161df16e58.png",
     "static/media/graph_m.png": "/XZYPHER/static/media/graph_m.91cc0f373b70c81f9bf3.png",
     "index.html": "/XZYPHER/index.html",
-    "main.5a3869bb.css.map": "/XZYPHER/static/css/main.5a3869bb.css.map",
-    "main.7fee5b3e.js.map": "/XZYPHER/static/js/main.7fee5b3e.js.map",
+    "main.8717b6ac.css.map": "/XZYPHER/static/css/main.8717b6ac.css.map",
+    "main.77ce372e.js.map": "/XZYPHER/static/js/main.77ce372e.js.map",
     "453.61670901.chunk.js.map": "/XZYPHER/static/js/453.61670901.chunk.js.map",
     "208.2fa20a9e.chunk.js.map": "/XZYPHER/static/js/208.2fa20a9e.chunk.js.map",
     "293.3b62e5be.chunk.js.map": "/XZYPHER/static/js/293.3b62e5be.chunk.js.map",
@@ -41,7 +41,7 @@
     "reactPlayerPreview.bc00135d.chunk.js.map": "/XZYPHER/static/js/reactPlayerPreview.bc00135d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a3869bb.css",
-    "static/js/main.7fee5b3e.js"
+    "static/css/main.8717b6ac.css",
+    "static/js/main.77ce372e.js"
   ]
 }
